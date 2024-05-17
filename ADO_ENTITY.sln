@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_ENTITY", "ADO_ENTITY\ADO_ENTITY.csproj", "{88D7BE82-3C3F-4732-B9B0-7BE8ABEC3195}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameData", "GameData\GameData.csproj", "{0ADE39EE-EFDA-4BC2-BE4B-913F74E22490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{2C5D1F55-0CDE-4A38-9C6F-B887461C6FDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{88D7BE82-3C3F-4732-B9B0-7BE8ABEC3195}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88D7BE82-3C3F-4732-B9B0-7BE8ABEC3195}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88D7BE82-3C3F-4732-B9B0-7BE8ABEC3195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ADE39EE-EFDA-4BC2-BE4B-913F74E22490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ADE39EE-EFDA-4BC2-BE4B-913F74E22490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ADE39EE-EFDA-4BC2-BE4B-913F74E22490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ADE39EE-EFDA-4BC2-BE4B-913F74E22490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C5D1F55-0CDE-4A38-9C6F-B887461C6FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5D1F55-0CDE-4A38-9C6F-B887461C6FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5D1F55-0CDE-4A38-9C6F-B887461C6FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5D1F55-0CDE-4A38-9C6F-B887461C6FDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
